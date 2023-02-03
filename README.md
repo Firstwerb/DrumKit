@@ -1,2 +1,2 @@
 # DrumKit
-Drum kit website project - Dr. Angela Yu
+Drum kit website project
